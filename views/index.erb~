@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Hotel Transylvania</title>
+<link href= "/home/user/121663/SW2/public/bootstrap.min.css" rel="stylesheet">
+</head>
+<body align = "center">
+<h1 align="center"><img src= "head.jpg" height="300"></img</h1>
+
+ <div class="container">
+      <div class="row">
+	  
+       <div class="col-md-4"><img src= "aboutus.jpeg" width="300" height="250"></img><a href="about">About Us</a></div>
+       <div class="col-md-4"><img src= "room.jpg" width="300" height="250"></img><a href="rooms">View Rooms</a></div>
+       <div class="col-md-4"><img src= "reserve.jpg" width="300" height="250"></img><a href="reserve">Reserve</a></div>
+      </div>
+    </div>
+</body>
+</html>
